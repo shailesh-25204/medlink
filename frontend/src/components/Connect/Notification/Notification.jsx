@@ -1,5 +1,5 @@
 import React, { useContext } from 'react'
-import { SocketContext } from '../../../socketContext'
+import { SocketContext } from '../../../socketContext.jsx'
 const Notification = () => {
   const {answerCall, call, callAccepted} = useContext(SocketContext)
   return (

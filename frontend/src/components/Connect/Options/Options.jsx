@@ -1,6 +1,6 @@
 import React, { useContext, useState } from 'react'
 import { CopyToClipboard } from 'react-copy-to-clipboard'
-import { SocketContext } from '../../../socketContext'
+import { SocketContext } from '../../../socketContext.jsx'
 
 const Options = ({ children }) => {
   const { me, callEnded, name, setName, callAccepted, leaveCall, callUser } = useContext(SocketContext)

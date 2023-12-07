@@ -7,8 +7,8 @@ import icon02 from '../assets/images/icon02.png';
 import icon03 from '../assets/images/icon03.png';
 import {Link} from 'react-router-dom';
 import {BsArrowRight} from 'react-icons/bs';
-import About from '../components/About/About';
-import ServiceList from '../components/Services/serviceList';
+import About from '../components/About/About.jsx';
+import ServiceList from '../components/Services/ServiceList.jsx';
 const Home = () => {
   return <>
   <section className='hero__section pt-[60px] 2xl:h-[800px]'>
