@@ -1,6 +1,6 @@
-# Medlink - Virtual Healthcare Platform
+# Medlink - Virtual Telemedicine Platform
 
-Medlink is a virtual healthcare platform that facilitates quick and convenient medical consultations through video appointments, all from the comfort of your home.
+Medlink is a virtual Telemedicine platform that facilitates quick and convenient medical consultations through video appointments, all from the comfort of your home.
 
 ## Features
 - **Virtual Healthcare:** Connect with healthcare professionals seamlessly through video appointments.
