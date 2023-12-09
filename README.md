@@ -27,8 +27,4 @@ Medlink is a virtual Telemedicine platform that facilitates quick and convenient
 ## Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgements
-Special thanks to all contributors who helped make Medlink a reliable and user-friendly virtual healthcare platform.
